@@ -1,0 +1,3 @@
+﻿  Problem 1 lab 9.c
+C:\Users\aleks\source\repos\Lab 9\Lab 9\Problem 1 lab 9.c(26,34): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\aleks\source\repos\Lab 9\Debug\Lab 9.exe for writing

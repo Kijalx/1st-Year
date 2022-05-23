@@ -1,0 +1,6 @@
+﻿  lab.c
+C:\Users\aleks\source\repos\Lab 9 v3\Lab 9 v3\lab.c(14,8): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\aleks\source\repos\Lab 9 v3\Lab 9 v3\lab.c(19,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleks\source\repos\Lab 9 v3\Lab 9 v3\lab.c(27,9): warning C4477: 'scanf' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+C:\Users\aleks\source\repos\Lab 9 v3\Lab 9 v3\lab.c(8,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab 9 v3.vcxproj -> C:\Users\aleks\source\repos\Lab 9 v3\Debug\Lab 9 v3.exe

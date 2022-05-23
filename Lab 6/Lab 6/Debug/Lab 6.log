@@ -1,0 +1,6 @@
+﻿  lab6c.c
+C:\Users\aleks\source\repos\Lab 6\Lab 6\lab6c.c(11,8): warning C4476: 'scanf' : unknown type field character '.' in format specifier
+C:\Users\aleks\source\repos\Lab 6\Lab 6\lab6c.c(11,16): warning C4474: 'scanf' : too many arguments passed for format string
+C:\Users\aleks\source\repos\Lab 6\Lab 6\lab6c.c(11,16): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\aleks\source\repos\Lab 6\Lab 6\lab6c.c(8,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Lab 6.vcxproj -> C:\Users\aleks\source\repos\Lab 6\Debug\Lab 6.exe

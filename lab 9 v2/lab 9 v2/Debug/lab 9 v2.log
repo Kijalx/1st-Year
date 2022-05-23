@@ -1,0 +1,6 @@
+﻿  LAB 9 problem 3.c
+C:\Users\aleks\source\repos\lab 9 v2\lab 9 v2\LAB 9 problem 3.c(23,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aleks\source\repos\lab 9 v2\lab 9 v2\LAB 9 problem 3.c(28,9): warning C4013: 'print' undefined; assuming extern returning int
+C:\Users\aleks\source\repos\lab 9 v2\lab 9 v2\LAB 9 problem 3.c(8,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+LAB 9 problem 3.obj : error LNK2019: unresolved external symbol _print referenced in function _main
+C:\Users\aleks\source\repos\lab 9 v2\Debug\lab 9 v2.exe : fatal error LNK1120: 1 unresolved externals

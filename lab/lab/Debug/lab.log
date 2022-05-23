@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\aleks\source\repos\lab\lab\Source.c(12,19): warning C4101: 'sum': unreferenced local variable
+  lab.vcxproj -> C:\Users\aleks\source\repos\lab\Debug\lab.exe

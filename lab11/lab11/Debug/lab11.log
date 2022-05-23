@@ -1,0 +1,6 @@
+﻿  lab11c.c
+C:\Users\aleks\source\repos\lab11\lab11\lab11c.c(24,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleks\source\repos\lab11\lab11\lab11c.c(31,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleks\source\repos\lab11\lab11\lab11c.c(38,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aleks\source\repos\lab11\lab11\lab11c.c(39,10): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 2 has type 'double (__cdecl *)(double)'
+  lab11.vcxproj -> C:\Users\aleks\source\repos\lab11\Debug\lab11.exe

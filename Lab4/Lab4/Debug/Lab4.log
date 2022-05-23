@@ -1,0 +1,4 @@
+﻿  lab4e.c
+C:\Users\aleks\source\repos\Lab4\Lab4\lab4e.c(9,55): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\aleks\source\repos\Lab4\Lab4\lab4e.c(9,55): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Lab4.vcxproj -> C:\Users\aleks\source\repos\Lab4\Debug\Lab4.exe
